@@ -1,0 +1,51 @@
+Algoritm de Sortare,Lungimea Listei,Timp (s)
+Bubble Sort,30,0.0
+Merge Sort,30,0.0
+Quick Sort,30,0.0
+Heap Sort,30,0.0
+Timsort,30,0.0
+Bubble Sort,683,0.00899958610534668
+Merge Sort,683,0.0009999275207519531
+Quick Sort,683,0.0
+Heap Sort,683,0.0009999275207519531
+Timsort,683,0.0
+Bubble Sort,969,0.020007610321044922
+Merge Sort,969,0.0
+Quick Sort,969,0.00099945068359375
+Heap Sort,969,0.0010006427764892578
+Timsort,969,0.0
+Bubble Sort,699,0.010504722595214844
+Merge Sort,699,0.0
+Quick Sort,699,0.0009999275207519531
+Heap Sort,699,0.0
+Timsort,699,0.0
+Bubble Sort,433,0.004000186920166016
+Merge Sort,433,0.0
+Quick Sort,433,0.00099945068359375
+Heap Sort,433,0.0
+Timsort,433,0.0
+Bubble Sort,225,0.0010004043579101562
+Merge Sort,225,0.0
+Quick Sort,225,0.0
+Heap Sort,225,0.0010006427764892578
+Timsort,225,0.0
+Bubble Sort,567,0.0060007572174072266
+Merge Sort,567,0.0
+Quick Sort,567,0.00099945068359375
+Heap Sort,567,0.0
+Timsort,567,0.0
+Bubble Sort,288,0.001999378204345703
+Merge Sort,288,0.0
+Quick Sort,288,0.0
+Heap Sort,288,0.0009992122650146484
+Timsort,288,0.0
+Bubble Sort,119,0.0
+Merge Sort,119,0.0
+Quick Sort,119,0.0
+Heap Sort,119,0.0
+Timsort,119,0.0
+Bubble Sort,273,0.002002716064453125
+Merge Sort,273,0.0
+Quick Sort,273,0.0
+Heap Sort,273,0.0
+Timsort,273,0.0

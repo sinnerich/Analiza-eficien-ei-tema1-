@@ -1,0 +1,51 @@
+Sort Algorithm,List Length,Time (s)
+Bubble Sort,428,0.003999948501586914
+Merge Sort,428,0.0
+Quick Sort,428,0.0
+Heap Sort,428,0.0
+Timsort,428,0.0
+Bubble Sort,439,0.004896402359008789
+Merge Sort,439,0.0
+Quick Sort,439,0.0
+Heap Sort,439,0.0010039806365966797
+Timsort,439,0.0
+Bubble Sort,309,0.0010502338409423828
+Merge Sort,309,0.0010030269622802734
+Quick Sort,309,0.0
+Heap Sort,309,0.0
+Timsort,309,0.0
+Bubble Sort,684,0.010176897048950195
+Merge Sort,684,0.0
+Quick Sort,684,0.0
+Heap Sort,684,0.0015032291412353516
+Timsort,684,0.0
+Bubble Sort,400,0.0030024051666259766
+Merge Sort,400,0.0
+Quick Sort,400,0.0010004043579101562
+Heap Sort,400,0.0
+Timsort,400,0.0
+Bubble Sort,653,0.009040117263793945
+Merge Sort,653,0.0010004043579101562
+Quick Sort,653,0.0
+Heap Sort,653,0.0010001659393310547
+Timsort,653,0.0
+Bubble Sort,289,0.0019996166229248047
+Merge Sort,289,0.0
+Quick Sort,289,0.0
+Heap Sort,289,0.0
+Timsort,289,0.00099945068359375
+Bubble Sort,233,0.0010004043579101562
+Merge Sort,233,0.0
+Quick Sort,233,0.0
+Heap Sort,233,0.0
+Timsort,233,0.0
+Bubble Sort,603,0.007180690765380859
+Merge Sort,603,0.0010001659393310547
+Quick Sort,603,0.0
+Heap Sort,603,0.0009996891021728516
+Timsort,603,0.0
+Bubble Sort,82,0.0
+Merge Sort,82,0.0
+Quick Sort,82,0.0
+Heap Sort,82,0.0
+Timsort,82,0.0
